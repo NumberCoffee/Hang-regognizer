@@ -1,0 +1,33 @@
+body
+{
+  color: rgb(230, 22, 22);
+  background: #d87f0b;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed rgb(71, 10, 121);
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name ,#resultgesture_name2  
+{
+  color: rgb(0, 0, 0);
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
